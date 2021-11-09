@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img height ="180em" src="https://github-readme-stats.vercel.app/api?username=luigi20&show_icons=true" alt="Luís Antonio"/> 
+<img height ="180em" src="https://github-readme-stats.vercel.app/api?username=luigi20&show_icons=true&theme=dracula" alt="Luís Antonio"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigi20&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
