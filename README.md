@@ -3,7 +3,7 @@
 <h3 align="center">A Web Developer</h3>
 
 
-- 🔭 I am currently looking for a job as a backend programmer and studying Nodejs
+- 🔭 I am currently looking for a job as a backend programmer and studying Nodejs, Docker, QueryBuilder e Design Patterns
 
 
 
